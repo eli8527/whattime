@@ -10,4 +10,4 @@ What Time explores what happens when our devices will never be perfectly "on tim
 
 Let me know your thoughts + comments.
 
-*Be sure to install [SysTime](https://github.com/eli8527/SysTime) and [ntplib](https://pypi.python.org/pypi/ntplib/) for this to work.*
+*Be sure to install [SysTime](https://github.com/eli8527/SysTime) and [ntplib](https://pypi.python.org/pypi/ntplib/) and to run as ```sudo``` for this to work.*
