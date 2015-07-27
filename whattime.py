@@ -10,6 +10,6 @@ def getUnixTime(pool="time.apple.com"):
 
 if __name__ == '__main__':
     # random time - normal distribution with 5 min std
-    print getUnixTime()
+    # print getUnixTime()
     rand_time = random.gauss(getUnixTime(), 300)
     systime.set_time(rand_time, 0)

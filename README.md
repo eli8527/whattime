@@ -2,7 +2,7 @@ What Time
 ===
 
 > Time is a societal construct.
-> - Jonathan Zong
+> ~ Jonathan Zong
 
 Time has become ingrained into our society. We look at our phones, laptops, watches with the expectation that they are telling the exact and correct time. We have **blind faith** in these devices in their ability to tell time accurately. But what if they don't?
 
